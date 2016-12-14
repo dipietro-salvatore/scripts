@@ -1,2 +1,2 @@
-# scripts
-Script Collection
+# Scripts
+Script Collection sorted by argument.
